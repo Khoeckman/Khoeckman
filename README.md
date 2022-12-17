@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khoeckman
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on programming
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on coding
 - 📫 Email: kyle.hoeckman@gmail.com
