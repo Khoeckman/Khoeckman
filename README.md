@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Khoeckman
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking for fun coding ideas
-- 📫 Email: kyle.hoeckman@gmail.com
+Me is like write code
+
+[![](https://visitcount.itsvg.in/api?id=Khoeckman&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
