@@ -4,4 +4,4 @@ Hi, my name is **Kyle Hoeckman**!
 - My true passion is **Web design and front-end development**.
 - Working on a new npm package: chessboard.js (still in alpha)
 
-My curriculum vitae: [https://khoeckman.github.io/cv/](https://khoeckman.github.io/cv/)
+My curriculum vitae: [https://kylecv.be/](https://kylecv.be/)
