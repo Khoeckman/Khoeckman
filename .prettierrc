@@ -1,0 +1,20 @@
+{
+  // --- Code Style ---
+  "printWidth": 120,           // Max line length before wrapping
+  "tabWidth": 2,               // Indent size
+  "useTabs": false,            // Use spaces, not tabs
+  "singleQuote": true,         // Prefer single quotes in JS/TS
+  "semi": false,               // Omit semicolons
+  "trailingComma": "es5",      // Add trailing commas where valid in ES5
+
+  // --- Function & Syntax Behavior ---
+  "arrowParens": "always",      // Omit parentheses for single-arg arrow functions
+
+  // --- HTML / JSX Formatting ---
+  "htmlWhitespaceSensitivity": "css", // Respect CSS display rules for whitespace
+  "singleAttributePerLine": false,    // Allow multiple attributes per line
+  "bracketSameLine": true,            // Put closing bracket of multiline elements on same line
+
+  // --- Miscellaneous ---
+  "endOfLine": "lf"            // Normalize line endings
+}
