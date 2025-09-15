@@ -1,0 +1,53 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[htsl]": {
+    "editor.wordWrap": "on"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "editor.accessibilitySupport": "off",
+  "editor.autoClosingQuotes": "never",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.hover.delay": 750,
+  "editor.linkedEditing": true,
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.ignoreRecommendations": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "html.autoClosingTags": false,
+  "html.format.maxPreserveNewLines": 1,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "print.folder.exclude": ["{bin,obj,out}", "node_modules", "data", "**/*.{bin,exe,dll,hex,pdb,pdf,pfx,png,jpg,gif,bmp,suo,design}"],
+  "print.folder.fileNames": true,
+  "print.folder.include": [],
+  "print.folder.includeFileList": false,
+  "print.folder.maxFiles": 30,
+  "print.folder.maxLines": 1200,
+  "redhat.telemetry.enabled": true,
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.gpuAcceleration": "on",
+  "vscord.behaviour.suppressNotifications": true,
+  "vscord.status.idle.check": false,
+  "vscord.status.idle.enabled": false,
+  "workbench.colorTheme": "Tokyo Night",
+  "workbench.editorAssociations": {
+    "{git,gitlens}:/**/*.{md,csv,svg}": "default"
+  },
+  "workbench.iconTheme": "icons",
+  "yaml.schemas": {
+    "file:///c%3A/Users/Kyle/.vscode/extensions/atlassian.atlascode-3.4.6/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.startupEditor": "none"
+}
