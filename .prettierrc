@@ -9,4 +9,5 @@
   "htmlWhitespaceSensitivity": "css",
   "singleAttributePerLine": false,
   "bracketSameLine": true,
+  "endOfLine": "lf",
 }
